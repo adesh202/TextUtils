@@ -35,7 +35,7 @@ function App() {
     <>
       <Router>
         <Navbar
-          title="TextUtils-netifly"
+          title="TextUtils"
           mode={mode}
           toggleMode={toggleMode}
           key={new Date()}
